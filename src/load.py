@@ -1,5 +1,5 @@
 """
-This file loads NiFTI data and converts to numpy
+This file loads NiFTI data
 using NiBabel Library
 """
 
