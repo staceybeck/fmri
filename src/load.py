@@ -12,4 +12,8 @@ def load_data(path):
     return nib.load(filename)
 
 
+def convert_mat(path):
+
+    mat_file = scipy.io.loadmat(path)
+    return mat_file
 
